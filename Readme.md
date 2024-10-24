@@ -1,6 +1,6 @@
 # Buildkite Ruby Example Test Suite
 
-This repository provides an example of a basic [Ruby](https://nodejs.org/) project that you can configure with a [Buildkite Test Engine](https://buildkite.com/organizations/~/analytics) test suite.
+This repository provides an example of a basic [Ruby](https://www.ruby-lang.org/) project that you can configure with a [Buildkite Test Engine](https://buildkite.com/organizations/~/analytics) test suite.
 
 > [!NOTE]
 > This example assumes you have already installed Ruby locally.
