@@ -20,3 +20,4 @@ BUILDKITE_ANALYTICS_TOKEN=<api-token-value> BUILDKITE_ANALYTICS_MESSAGE="My test
 ## License
 
 See the [LICENSE](LICENSE) (MIT).
+I dont need no license
